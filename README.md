@@ -93,7 +93,7 @@ Estudiar → Construir → Debuggear → Repetir
 
 Si eres estudiante como yo, tienes algún consejo o quieres colaborar en algún proyecto, ¡me encantaría conversar!
 
-- ✉️ **Email:** [tonicracko21@gmail.com](mailto:tonicracko21@gmail.com)
+- ✉️ **Email:** [juanpablobj.14@gmail.com](mailto:juanpablobj.14@gmail.com)
 - 🐙 **GitHub:** [github.com/JP-hub-coder](https://github.com/JP-hub-coder)
 
 ---
