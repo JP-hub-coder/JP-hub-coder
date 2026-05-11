@@ -99,4 +99,4 @@ Si eres estudiante como yo, tienes algún consejo o quieres colaborar en algún 
 
 ---
 
-<p align="center"><strong>Gracias por pasarte por aquí 😊 - ¿Do you know why programmers use the dark mode?, Because "bugs" like light " 🤪</strong></p>
+<p align="center"><strong>Gracias por pasarte por aquí 😊 - ¿Do you know why programmers use the dark mode?, Because "bugs" like light 🤪</strong></p>
