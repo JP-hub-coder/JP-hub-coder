@@ -95,7 +95,8 @@ Si eres estudiante como yo, tienes algún consejo o quieres colaborar en algún 
 
 - ✉️ **Email:** [juanpablobj.14@gmail.com](mailto:juanpablobj.14@gmail.com)
 - 🐙 **GitHub:** [github.com/JP-hub-coder](https://github.com/JP-hub-coder)
-
+- 💼 **Portafolio:** [https://jp-hub-coder.github.io/Portafolio/](https://jp-hub-coder.github.io/Portafolio/)
+- 🧊 **Linkedin:** [www.linkedin.com/in/juan-pablo-beltrán](https://www.linkedin.com/in/juan-pablo-beltr%C3%A1n-jim%C3%A9nez-51b8ba3b6/)
 ---
 
 <p align="center"><strong>Gracias por pasarte por aquí 😊 - ¿Do you know why programmers use the dark mode?, Because "bugs" like light 🤪</strong></p>
